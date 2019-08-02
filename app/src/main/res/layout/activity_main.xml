@@ -58,7 +58,7 @@
                 android:layout_height="wrap_content"
                 android:text="Login"
                 android:layout_marginLeft="50dp"
-                android:onClick="Onlogin"/>
+                />
 
             <Button
                 android:id="@+id/btnReset"
@@ -86,16 +86,6 @@
             android:layout_marginTop="4dp"
             android:onClick="Onregister"
             android:text="New User ? Register" />
-        <TextView
-            android:id="@+id/netId"
-            android:layout_width="186dp"
-            android:layout_height="40dp"
-            android:layout_marginTop="0dp"
-            android:layout_marginLeft="100dp"
-            android:padding="5dp"
-            android:text="Internet not connected"
-            android:textColor="#000"
-            android:textSize="16dp" />
 
     </LinearLayout>
 

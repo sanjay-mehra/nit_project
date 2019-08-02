@@ -19,7 +19,20 @@
     <string name="menu_share">Share</string>
     <string name="menu_send">Send</string>
     <string name="title_activity_scrolling">ScrollingActivity</string>
-    <string-array name="names">
+
+    <string-array name="devices">
+        <item>Select</item>
+        <item>PC</item>
+        <item>Laptop</item>
+        <item>Mobile</item>
+        <item>Camera</item>
+        <item>CD</item>
+        <item>Pen Drive</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="pc_laptop">
+        <item>Select</item>
         <item>Del</item>
         <item>Acer</item>
         <item>Samsung</item>
@@ -34,17 +47,29 @@
         <item>Philips</item>
         <item>Redmi</item>
         <item>Realme</item>
-    </string-array>
-    <string-array name="devices">
-        <item>Select</item>
-        <item>PC</item>
-        <item>Laptop</item>
-        <item>Mobile</item>
-        <item>Camera</item>
-        <item>CD</item>
-        <item>Pen Drive</item>
         <item>Other</item>
     </string-array>
+
+    <string-array name="camera">
+        <item>Select</item>
+        <item>Canon</item>
+        <item>Nikon</item>
+        <item>Sony</item>
+        <item>Panasonic</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="mobile">
+        <item>Select</item>
+        <item>Samsung</item>
+        <item>Apple</item>
+        <item>MI</item>
+        <item>Oppo</item>
+        <item>Vivo</item>
+        <item>Nokia</item>
+        <item>Other</item>
+    </string-array>
+
     <string-array name="pendrives">
         <item>Select</item>
         <item>sandisk</item>
@@ -52,6 +77,14 @@
         <item>Micromax</item>
         <item>Other</item>
     </string-array>
+
+    <string-array name="condition">
+        <item>Select</item>
+        <item>Damaged</item>
+        <item>Working</item>
+        <item>Other</item>
+    </string-array>
+
     <string-array name="empty">
         <item>Select</item>
     </string-array>

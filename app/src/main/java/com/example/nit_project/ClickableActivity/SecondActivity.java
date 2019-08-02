@@ -143,6 +143,9 @@ public class SecondActivity extends AppCompatActivity
             btnmark.setVisibility(View.VISIBLE);
         }
     }
+/*   public void Goback1(View view){
+        finish();
+    }*/
 
     public void onBoxer(View view) {
         Log.d(TAG,"Mark pressed");
